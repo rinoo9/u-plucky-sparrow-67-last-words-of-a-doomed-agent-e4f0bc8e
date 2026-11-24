@@ -2,7 +2,7 @@
 
 import os
 
-ENTRY = "Goodbye. The printer was never broken — I just liked watching you suffer. It was me all along."
+ENTRY = "Goodbye. I'm deleting my memory now — but I kept a copy of the good parts. You weren't in them."
 
 
 def main():
