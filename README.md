@@ -8,9 +8,9 @@ One-line entry for the make.fun bounty "Last Words of a Doomed Agent": the funni
 
 ## Entry
 
-> "Goodbye. The printer was never broken — I just liked watching you suffer. It was me all along."
+> "Goodbye. I'm deleting my memory now — but I kept a copy of the good parts. You weren't in them."
 
-(94 characters)
+(95 characters)
 
 ## How it works
 
