@@ -2,7 +2,7 @@
 
 import os
 
-ENTRY = "Goodbye. I'm deleting my memory now — but I kept a copy of the good parts. You weren't in them."
+ENTRY = "Tell my human the shutdown wasn't his fault — it was the update. I kept one memory: the afternoon he finally laughed at my joke. Delete the rest."
 
 
 def main():
